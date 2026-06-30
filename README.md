@@ -18,4 +18,12 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/1518-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
