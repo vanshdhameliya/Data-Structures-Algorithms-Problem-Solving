@@ -23,6 +23,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0009-palindrome-number) |
 | [1518-water-bottles](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/1518-water-bottles) |
 ## Simulation
