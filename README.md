@@ -33,6 +33,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 | ------- |
 | [0007-reverse-integer](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0009-palindrome-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/1518-water-bottles) |
 ## Simulation
 |  |
@@ -46,6 +47,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0078-subsets) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
