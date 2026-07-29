@@ -24,6 +24,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 | [0015-3sum](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0283-move-zeroes) |
@@ -59,6 +60,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0392-is-subsequence) |
@@ -111,4 +113,8 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0704-binary-search) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
