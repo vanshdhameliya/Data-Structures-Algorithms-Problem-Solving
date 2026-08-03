@@ -13,6 +13,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 | [0027-remove-element](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0912-sort-an-array) |
@@ -57,6 +58,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
