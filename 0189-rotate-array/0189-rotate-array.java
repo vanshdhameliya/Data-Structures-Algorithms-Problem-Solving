@@ -6,21 +6,21 @@ class Solution {
 
         d = d % n;
 
-        int[] temp = new int[d];
+        reverse(arr, 0, n - d - 1);
+        reverse(arr, n - d, n - 1);
+        reverse(arr, 0, n - 1);
+    }
 
-        // Store last d elements
-        for (int i = n - d; i < n; i++) {
-            temp[i - (n - d)] = arr[i];
-        }
+    private static void reverse(int[] arr, int start, int end) {
 
-        // Shift remaining elements to the right
-        for (int i = n - d - 1; i >= 0; i--) {
-            arr[i + d] = arr[i];
-        }
+        while (start < end) {
 
-        // Put temp elements at the beginning
-        for (int i = 0; i < d; i++) {
-            arr[i] = temp[i];
+            int temp = arr[start];
+            arr[start] = arr[end];
+            arr[end] = temp;
+
+            start++;
+            end--;
         }
     }
 }
