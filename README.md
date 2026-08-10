@@ -14,6 +14,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 | [0075-sort-colors](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0912-sort-an-array) |
@@ -29,6 +30,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0392-is-subsequence) |
@@ -43,6 +45,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 | ------- |
 | [0007-reverse-integer](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0326-power-of-three) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/1518-water-bottles) |
