@@ -15,6 +15,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 | [0078-subsets](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0912-sort-an-array) |
@@ -40,12 +41,14 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0326-power-of-three) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/1518-water-bottles) |
@@ -62,6 +65,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 | ------- |
 | [0078-subsets](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
@@ -80,6 +84,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 | ------- |
 | [0015-3sum](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -118,6 +123,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0704-binary-search) |
 ## String Matching
 |  |
