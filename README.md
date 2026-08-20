@@ -17,6 +17,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 | [0189-rotate-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0977-squares-of-a-sorted-array) |
