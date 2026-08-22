@@ -13,6 +13,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 | [0027-remove-element](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0268-missing-number) |
@@ -80,6 +81,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
