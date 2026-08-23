@@ -54,6 +54,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 | [0326-power-of-three](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0326-power-of-three) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/1518-water-bottles) |
+| [1927-sum-game](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/1927-sum-game) |
 ## Simulation
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 | [0392-is-subsequence](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1927-sum-game](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/1927-sum-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 | ------- |
 | [0011-container-with-most-water](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1927-sum-game](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/1927-sum-game) |
 ## Recursion
 |  |
 | ------- |
@@ -133,4 +136,8 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
