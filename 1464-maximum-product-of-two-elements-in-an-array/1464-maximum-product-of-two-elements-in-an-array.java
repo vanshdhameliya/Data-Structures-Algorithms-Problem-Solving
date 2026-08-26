@@ -3,13 +3,13 @@ class Solution {
 
         int n = nums.length;
         int max = Integer.MIN_VALUE;
-        int sMax = Integer.MAX_VALUE;
+        int sMax = Integer.MIN_VALUE;
 
         for(int i = 0; i < n; i++) {
             if(nums[i] > max) {
                 sMax = max;
                 max = nums[i];
-            } else if(sMax < nums[i]) 
+            } else if(nums[i] > sMax) 
             sMax = nums[i];
         }
         return (max-1) * (sMax-1); 
