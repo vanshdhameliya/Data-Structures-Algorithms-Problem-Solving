@@ -64,6 +64,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
